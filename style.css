@@ -1,0 +1,21 @@
+.bg-image { 
+    background-image: url(https://images.unsplash.com/photo-1538669715315-155098f0fb1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80);
+    background-size: cover;
+    background-position: center;
+    min-height: 85vh;
+
+}
+
+.bg-form {
+    background-color: rgba(255, 192, 203, 0.247);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgb(255, 192, 218);
+    border-radius: 5px;
+}
+.content-spill {
+    transform: translateY(5em);
+}
+
+.transform-btn {
+    transform: translateX(24em);
+}
