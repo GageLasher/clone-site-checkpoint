@@ -16,6 +16,7 @@
     transform: translateY(5em);
 }
 
-.transform-btn {
-    transform: translateX(24em);
+.korean {
+    font-family: 'Noto Serif KR', serif;
 }
+
