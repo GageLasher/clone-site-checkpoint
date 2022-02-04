@@ -20,3 +20,9 @@
     font-family: 'Noto Serif KR', serif;
 }
 
+@media screen and (max-width: 768px) {
+    .content-spill {
+        transform: none;
+    }
+}
+
